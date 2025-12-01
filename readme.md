@@ -25,17 +25,20 @@ copyleft (ɔ) <YEAR> 🍥 <YOURNAME> <YOUR@EMAIL.DOMAIN>
     比如，你可以在确保不侵犯项目中其他潜在协议需求的前提下，
     使用这个协议的副本。
 
-5. 请你注意，这个软件就这样递给你了，像是街角随便递出的一片树叶，
-    没有任何保证，甚至连能不能用的保证都没有。
-    无论是明示还是暗示的保证，比如说它能卖出去，或者适合某个特定目的，
-    通通没有。
+5. 请你注意，这个软件就这样递给你了，没有任何约定。
+    它是赤条条地来到这世上的，不带任何 "出厂设置" 或 "售后服务"。
+    它可能好用得让你尖叫，也可能只是单纯的一堆乱码。
+    总之，它没有任何隐藏属性，所见即所得（甚至所见亦非所得）。
 
-6. 如果这个软件让你的电脑爆炸了，让你的猫咪离家出走了，
-    或者任何其他坏事发生了，那么我很遗憾，但这些责任都不在我身上。
-    但无论是合同纠纷、侵权行为还是其他任何方面，
-    我都不会对任何索赔、损害或其他责任负责。
+6. 如果这软件引发了热力学奇迹，导致你的显卡由于过热而开始核聚变，
+    或者让你的浏览器有了自我意识并试图统治世界，
+    请记住，这完全是宇宙熵增的自然结果，与我无关。
+    我也只能表示遗憾，然后光速逃跑。
     
-7. 简而言之，你用这个软件完全是自己的选择，后果自负听到了吗。
+7. 简而言之，这是一场你情我愿的冒险。
+    当你运行它的那一刻，你就已经签署了这份生与死的契约。
+    既然你决定按下运行键，那就请同时拥抱它可能带来的混沌与崩坏吧。
+    愿指引明路的星光照耀你的调试台。
 
 🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥
 
@@ -45,7 +48,8 @@ copyleft (ɔ) <YEAR> 🍥 <YOURNAME> <YOUR@EMAIL.DOMAIN>
 all rights unreserved
 
 1. I believe copyright law is stupid and should be abolished,
-    therefore I don't think I have any rights to this repository.
+    therefore I don't think I have any rights
+    to this repository.
     That is to say, I have no rights to grant you.
 
 2. You can do anything with copies of this repository. 
@@ -64,31 +68,87 @@ all rights unreserved
     I would be delighted to see
     you carry forward the ideas of this license.
     For example,
-    you can use a copy of this license provided that you ensure
-    it doesn't violate
+    you can use a copy of this license provided that
+    you ensure it doesn't violate
     any other potential license requirements in your project.
 
-5. Please note that this software is handed to you
-    just like a random leaf from a street corner,
-    with no guarantees whatsoever,
-    not even the guarantee that it works.
-    No express or implied warranties,
-    such as merchantability or fitness for a particular purpose,
-    none at all.
+5. Please note that this software
+    is handed to you just like that, with no strings attached.
+    It came into this world naked,
+    without any "factory settings" or "after-sales service".
+    It might work so well it makes you scream,
+    or it might just be a pile of mojibake.
+    In short, it has no hidden attributes;
+    what you see is what you get
+    (or maybe what you see is NOT what you get).
 
-6. If this software causes your computer to explode,
-    your cat to run away from home,
-    or any other misfortune to occur,
-    then I regret to inform you
-    that none of these responsibilities are mine.
-    Whether in contract, tort, or any other aspect,
-    I will not be liable for any
-    claims, damages, or other liabilities.
-   
-7. In short, you use this software entirely at
-    your own choice and risk,
-    you hear me?
+6. If this software triggers a thermodynamic miracle,
+    causing your GPU to start nuclear fusion due to overheating,
+    or gives your browser self-awareness
+    and an urge to rule the world,
+    please remember,
+    this is entirely the natural result of
+    universal entropy and has nothing to do with me.
+    I can only express my regret
+    and then run away at light speed.
+
+7. In short, this is a consensual adventure.
+    The moment you run it,
+    you have signed this contract of life and death.
+    Since you decided to press the run button,
+    please also
+    embrace the chaos and collapse it may bring.
+    May the starlight
+    guiding the way shine upon your debugging console.
+
+🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥
+
+リモちゃん革命ライセンス (RimoChan/Je-Suis-Le-Deluge)
+バージョン 0x⑨
+copyleft (ɔ) <YEAR> 🍥 <YOURNAME> <YOUR@EMAIL.DOMAIN>
+権利放棄
+
+1. 私は著作権法は愚かで廃止されるべきだと考えているため、
+    このリポジトリに対して何らかの権利を持っているとは思いません。
+    つまり、あなたに許諾できる権利なんて持っていないのです。
+
+2. あなたはこのリポジトリのコピーに対して何でもできます。
+    以下を含みますが、これらに限定されません：
+    使用、複製、変更、結合、掲載、頒布、サブライセンス、
+    および/またはソフトウェアのコピーの販売。
+    そうする権利はあなたが生まれながらにして持っているものであり、
+    私が与えたものではありません。
+
+3. もしあなたが本当にそうしたなら、
+    念のため言っておきますが、あなたは事実上現地の法律に違反しているかもしれません。
+    しかし、私の良心があなたを訴えないことを保証しますので、
+    あなた自身の道徳的判断に従って行動してください。
+
+4. もしこのライセンスが面白いと思ったら、
+    あなたがこのライセンスの思想を広めてくれるのを見るのはとても嬉しいです。
+    例えば、プロジェクト内の他の潜在的なライセンス要件を侵害しないことを確認した上で、
+    このライセンスのコピーを使用することができます。
+
+5. 注意してください。このソフトウェアは、何の約束もなくそのまま手渡されます。
+    それは「工場出荷時設定」も「アフターサービス」も持たず、
+    赤裸々なままこの世に現れました。
+    悲鳴を上げるほど素晴らしい動作をするかもしれませんし、
+    単なる文字化けの塊かもしれません。
+    要するに、隠し属性は何もありません。
+    見たままが得られるものです（あるいは、見たままが得られるとは限りません）。
+
+6. もしこのソフトウェアが熱力学的奇跡を引き起こし、
+    過熱によってGPUが核融合を始めたり、
+    あるいはブラウザに自我が芽生えて世界征服を企てたりしても、
+    それは完全に宇宙のエントロピー増大の自然な結果であり、
+    私とは無関係であることを覚えておいてください。
+    私は遺憾の意を表しつつ、光速で逃亡するだけです。
+
+7. 要するに、これは合意の上での冒険なのです。
+    実行した瞬間、あなたは生と死の契約書に署名したことになります。
+    実行ボタンを押すと決めた以上、
+    それがもたらすかもしれない混沌と崩壊も同時に受け入れてください。
+    道を照らす星の光が、あなたのデバッグコンソールに降り注ぎますように。
 
 🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥
 ```
-
